@@ -1,0 +1,5 @@
+{
+  "name": "usage-band",
+  "owner": { "name": "yijin-png" },
+  "plugins": [{ "name": "usage-band", "source": "./" }]
+}
