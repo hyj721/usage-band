@@ -1,5 +1,5 @@
 {
   "name": "usage-band",
-  "owner": { "name": "yijin-png" },
+  "owner": { "name": "hyj721" },
   "plugins": [{ "name": "usage-band", "source": "./" }]
 }
